@@ -57,7 +57,7 @@ echo -e " WELCOME Ezqlusia AUTOSCRIPT PREMIUM${YELLOW}(${NC}${green}Stable Editi
 echo -e " PROSES PENGECEKAN IP ADDRESS ANDA !!"
 echo -e "${purple}----------------------------------------------------------${NC}"
 echo -e " ›AUTHOR : ${green}Ezqlusia ${NC}${YELLOW}(${NC}${green}V 3.2${NC}${YELLOW})${NC}"
-echo -e " ›TEAM : EzqlusiaVPN STORE ${YELLOW}(${NC} ${YELLOW})${NC}"
+echo -e " ›TEAM : Ezqlusia ${YELLOW}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 2
