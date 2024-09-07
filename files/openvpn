@@ -1,12 +1,12 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » Gemilangkinasih࿐
-# Email      » gemilangkinasih@gmail.com
-# telegram   » https://t.me/gemilangkinasih
-# whatsapp   » wa.me/+628984880039
+# Develovers » Ezqlusia࿐
+# Email      » lugh.ezqlusia@gmail.com
+# telegram   » https://t.me/Ezqlusia
+# whatsapp   » wa.me/+6285320133860
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Gemilangkinasih࿐
+# Ezqlusia࿐
 
 export DEBIAN_FRONTEND=noninteractive
 OS=`uname -m`;
